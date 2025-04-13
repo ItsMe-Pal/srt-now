@@ -1,5 +1,5 @@
 # srt-now A fast tool to translate subtitle files
-![Logo](https://imgur.com/kpV2PGk)
+![Logo](https://i.imgur.com/kpV2PGk.png)
 
 [🛒 Buy Now OR Watch Trailer – itch.io](https://itsmepal.itch.io/srt-now)
 
