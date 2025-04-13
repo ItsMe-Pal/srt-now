@@ -1,6 +1,6 @@
 # srt-now A fast tool to translate subtitle files
 
-[🛒 Buy Now && Trailer – itch.io](https://itsmepal.itch.io/srt-now)
+[🛒 Buy Now OR Watch Trailer – itch.io](https://itsmepal.itch.io/srt-now)
 
 ## Overview
 This program takes .srt files from the src folder and translates them one by one according to your preferred language. You can change the language in `config.cfg` > `language` by writing your language code.
