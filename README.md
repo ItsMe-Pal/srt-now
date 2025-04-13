@@ -1,5 +1,5 @@
 # srt-now A fast tool to translate subtitle files
-
+[!Logo](https://public-files.gumroad.com/vxrl6ct6kq2p23av3poptnz2g10o)
 [🛒 Buy Now OR Watch Trailer – itch.io](https://itsmepal.itch.io/srt-now)
 
 ## Overview
